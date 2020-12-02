@@ -1,0 +1,16 @@
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\functions-tutorial.exe
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\functions-tutorial.deps.json
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\functions-tutorial.runtimeconfig.json
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\functions-tutorial.runtimeconfig.dev.json
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\functions-tutorial.dll
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\ref\functions-tutorial.dll
+D:\Jordan\Documents\Code\functions-tutorial\bin\Debug\net5.0\functions-tutorial.pdb
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.csprojAssemblyReference.cache
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.AssemblyInfoInputs.cache
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.AssemblyInfo.cs
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.csproj.CoreCompileInputs.cache
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.dll
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\ref\functions-tutorial.dll
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.pdb
+D:\Jordan\Documents\Code\functions-tutorial\obj\Debug\net5.0\functions-tutorial.genruntimeconfig.cache
